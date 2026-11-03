@@ -1,0 +1,9 @@
+# cache gerado pelo script
+.cache_fitbit.pkl
+__pycache__/
+
+# arquivos temporários do Excel/Word
+~$*
+
+# documento da APS (não faz parte do código)
+APS 1.docx
