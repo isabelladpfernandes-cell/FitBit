@@ -388,6 +388,7 @@ def card_grafico(titulo, grafico_id, subtitulo=None, classe=""):
 # 7. App
 # ----------------------------------------------------------------------------
 app = Dash(__name__, title="Dashboard Fitbit")
+server = app.server  # usado pelo gunicorn na publicação (Render)
 
 CSS = """
 * { box-sizing: border-box; }
