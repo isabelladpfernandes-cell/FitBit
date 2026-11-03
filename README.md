@@ -4,6 +4,9 @@
 
 Dashboard interativo em Python (Dash + Plotly) com os dados de atividade física e sono de 35 usuárias de Fitbit, de 12/03/2016 a 12/05/2016.
 
+**Dashboard publicado:** https://pulso-fitbit.onrender.com
+(hospedagem gratuita: se ninguém acessou nos últimos 15 minutos, a primeira abertura leva cerca de 50 segundos)
+
 ## Como rodar
 
 ```bash
